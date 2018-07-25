@@ -9,9 +9,9 @@ public class Demo {
 		System.out.println("请输入一个数字");
 		int num = input.nextInt();
 		if(num%2 == 0) {
-			System.out.println(num+"是偶数");
+			System.out.println(num+":偶数!");
 		}else {
-			System.out.println(num+"是奇数");
+			System.out.println(num+":奇数!");
 		}
 		
 		
